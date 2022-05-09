@@ -54,10 +54,16 @@ _DS Workshops_.
 
 ### Known Issues
 - Punch and pie are never actually served at DS Guided Projects
+  - Punch recipe added
+  - Pie deemed too messy replaced with cupcakes
 - Some code works
+  - some code now doesn't work
 - Documentation is lacking
+  - This is a document
 - This list is lacking
+  - added more lists
 - You're lacking
+  - meta AF
 - Am not!
 
 
